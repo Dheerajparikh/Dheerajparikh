@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi there, I'm Dee! 👋
 
-<!--
-**Dheerajparikh/Dheerajparikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Cloud & DevOps Engineer | Technical Consultant**
 
-Here are some ideas to get you started:
+🔹 Passionate about automating cloud infrastructure, CI/CD pipelines, and DevOps best practices.  
+🔹 Experienced in **GCP, Docker, Terraform, CI/CD (GitLab, GCP Cloud CICD)**, and more.  
+🔹 Love working on **cloud security, cost optimization, and infrastructure as code (IaC)** solutions.  
+🔹 Exploring **GCP freelancing** and building sample projects to showcase expertise.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 My Tech Stack:
+- **Cloud:** Google Cloud Platform (GCP), AWS (Basics)
+- **Containerization & Orchestration:** Docker, Kubernetes
+- **Infrastructure as Code:** Terraform, Cloud Formation
+- **CI/CD:**  Jenkins, Cloud Build, Cloud Deploy
+- **Scripting & Automation:** Bash, Python
+- **Monitoring & Logging:** Cloud Logging and Monitoring
+
+### 🚀 Projects & Contributions
+- 🔹 **Cloud DevOps Portfolio Project:** [Coming Soon]
+- 🔹 **GCP Security Best Practices Guide** 📖
+- 🔹 **Automated CI/CD Pipeline using Terraform & GitHub Actions**
+
+### 📌 Certifications
+✅ **Google Cloud Associate Cloud Engineer**  
+✅ **Google Cloud Professional Cloud Security Engineer**  
+✅ **Google Cloud Professional Cloud DevOps Engineer**  
+
+### 📬 Let's Connect!
+🔗 **GitHub:** [github.com/Dheerajparikh](https://github.com/Dheerajparikh))  
+💼 **LinkedIn:** [linkedin.com/in/dheeraj-parikh-073781145/](https://www.linkedin.com/in/dheeraj-parikh-073781145/))  
+🌍 **Portfolio:** [Coming Soon]  
+
+---
+⭐ **Fun Fact:** DevOps is not just tools, it’s a culture! 🔥
