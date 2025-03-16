@@ -1,4 +1,4 @@
-## Hi there, I'm Dee! 👋
+## Hi there, I'm Dheeraj! 👋
 
 🚀 **Cloud & DevOps Engineer | Technical Consultant**
 
